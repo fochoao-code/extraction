@@ -1,0 +1,169 @@
+﻿  tuklib_cpucores.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  tuklib_physmem.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+D:\extraction\src\common\tuklib_physmem.c(82,7): warning C4996: 'GetVersion': was declared deprecated
+D:\extraction\src\common\tuklib_physmem.c(89,1): warning C4113: 'FARPROC' differs in parameter lists from 'BOOL (__stdcall *)(LPMEMORYSTATUSEX)'
+  check.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  crc32_fast.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  crc32_table.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  crc64_fast.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+D:\extraction\src\liblzma\check\crc64_fast.c(52,29): warning C4244: 'initializing': conversion from 'uint64_t' to 'const uint32_t', possible loss of data
+  crc64_table.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  sha256.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  alone_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  alone_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  auto_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  block_buffer_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  block_buffer_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+D:\extraction\src\liblzma\common\block_buffer_encoder.c(84,9): warning C4244: 'return': conversion from 'uint64_t' to 'size_t', possible loss of data
+D:\extraction\src\liblzma\common\block_buffer_encoder.c(147,39): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\extraction\src\liblzma\common\block_buffer_encoder.c(184,23): warning C4244: '=': conversion from 'lzma_vli' to 'size_t', possible loss of data
+  block_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  block_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  block_header_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  block_header_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+D:\extraction\src\liblzma\common\block_header_encoder.c(85,20): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  block_util.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  common.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  easy_buffer_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  Compiling...
+  easy_decoder_memusage.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  easy_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  easy_encoder_memusage.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  easy_preset.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  filter_buffer_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  filter_buffer_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  filter_common.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  filter_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  filter_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  filter_flags_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+D:\extraction\src\liblzma\common\filter_flags_decoder.c(41,37): warning C4244: 'function': conversion from 'lzma_vli' to 'size_t', possible loss of data
+D:\extraction\src\liblzma\common\filter_flags_decoder.c(43,13): warning C4244: '+=': conversion from 'lzma_vli' to 'size_t', possible loss of data
+  filter_flags_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  hardware_cputhreads.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  hardware_physmem.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  index.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+D:\extraction\src\liblzma\common\index.c(888,4): warning C4244: 'function': conversion from 'const lzma_vli' to 'size_t', possible loss of data
+D:\extraction\src\liblzma\common\index.c(899,24): warning C4244: '=': conversion from 'const lzma_vli' to 'size_t', possible loss of data
+D:\extraction\src\liblzma\common\index.c(900,34): warning C4244: '=': conversion from 'const lzma_vli' to 'size_t', possible loss of data
+  index_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  index_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  index_hash.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  outqueue.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  stream_buffer_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  stream_buffer_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  Compiling...
+  stream_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  stream_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  stream_encoder_mt.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  stream_flags_common.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  stream_flags_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  stream_flags_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  vli_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  vli_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  vli_size.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  delta_common.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  delta_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  delta_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  fastpos_table.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lzma2_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lzma2_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+D:\extraction\src\liblzma\lzma\lzma2_encoder.c(85,28): warning C4267: '+=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\extraction\src\liblzma\lzma\lzma2_encoder.c(91,27): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\extraction\src\liblzma\lzma\lzma2_encoder.c(126,49): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  lzma_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lzma_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lzma_encoder_optimum_fast.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lzma_encoder_optimum_normal.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lzma_encoder_presets.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  Compiling...
+  lz_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lz_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  lz_encoder_mf.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  price_table.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  arm.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  armthumb.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  ia64.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  powerpc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  simple_coder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  simple_decoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  simple_encoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  sparc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  x86.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  liblzma.vcxproj -> D:\extraction\windows_lzma\Release\Win32\liblzma\liblzma.lib
